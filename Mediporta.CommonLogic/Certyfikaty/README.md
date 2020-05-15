@@ -1,4 +1,4 @@
-﻿# ReadMe
+﻿# Mediporta.ApiExample
 
 Do poprawnego działania klienta API potrzebne jest posiadanie wygenerowanego certyfikatu - poniższa instrukcja przedstawia zestaw przykładowych poleceń do jego generowania.
 

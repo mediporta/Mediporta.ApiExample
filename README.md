@@ -1,4 +1,4 @@
-# ReadMe 
+# Mediporta.ApiExample
 
 Ta solucja zawiera kod przyk³adowego i prostego klienta korzystaj¹cego z API Mediporty.  
  

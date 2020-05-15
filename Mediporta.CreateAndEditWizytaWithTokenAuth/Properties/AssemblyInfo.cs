@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Mediporta.CreateAndEditWizytaWithTokenAuth")]
-[assembly: AssemblyCopyright("Mediporta ©  2020")]
+[assembly: AssemblyCopyright("MEDIPORTA SP. Z O.O. ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

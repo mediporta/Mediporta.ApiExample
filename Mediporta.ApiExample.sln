@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediporta.CommonLogic", "Mediporta.CommonLogic\Mediporta.CommonLogic.csproj", "{9C38FF31-2E23-4B91-AC23-FC7A8FFB565A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediporta.CreateAndEditWizytaWithTokenAuth", "Mediporta.CreateAndEditWizytaWithTokenAuth\Mediporta.CreateAndEditWizytaWithTokenAuth.csproj", "{0A97D761-B6E1-4392-A9B1-537564AFA076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediporta.CreateAndEditWizytaWithCookieAuth", "Mediporta.CreateAndEditWizytaWithCookieAuth\Mediporta.CreateAndEditWizytaWithCookieAuth.csproj", "{A50AC97C-4A28-43C0-AE8D-4B9A6AF9E4DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AF85B564-8DCC-45AB-9850-3CD3B8994944}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C38FF31-2E23-4B91-AC23-FC7A8FFB565A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C38FF31-2E23-4B91-AC23-FC7A8FFB565A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C38FF31-2E23-4B91-AC23-FC7A8FFB565A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C38FF31-2E23-4B91-AC23-FC7A8FFB565A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A97D761-B6E1-4392-A9B1-537564AFA076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A97D761-B6E1-4392-A9B1-537564AFA076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A97D761-B6E1-4392-A9B1-537564AFA076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A97D761-B6E1-4392-A9B1-537564AFA076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A50AC97C-4A28-43C0-AE8D-4B9A6AF9E4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50AC97C-4A28-43C0-AE8D-4B9A6AF9E4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50AC97C-4A28-43C0-AE8D-4B9A6AF9E4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50AC97C-4A28-43C0-AE8D-4B9A6AF9E4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8803D421-4DA4-45C1-A5C5-3721A5A72A5F}
+	EndGlobalSection
+EndGlobal

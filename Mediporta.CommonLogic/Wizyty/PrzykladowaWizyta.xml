@@ -1,0 +1,6 @@
+﻿<Wizyta xmlns="http://www.mediporta.pl/Schemas" DataWizyty="2020-05-20T16:00:00.000+0000" IdKomorki="1">
+  <Pracownik Imie="Antonii" NPWZ="8888888" Nazwisko="Leczniczy" PESEL="99999999999"/>
+  <Pacjent Imie = "Leonard" Nazwisko="Przygocki" PESEL="99999999991" Plec="Mezczyzna">
+    <Adres KodPocztowy = "61-144" Miejscowosc="Poznań" NrBudynku="12a" NrLocalu="33" Ulica="Poznańska"/>
+  </Pacjent>
+</Wizyta>

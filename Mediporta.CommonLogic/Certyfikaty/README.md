@@ -11,7 +11,7 @@ Poniżej znajduje się instrukcja generowania przykładowego certyfikatu.
 ## Przykładowe polecenia użyte do generowanie certyfikatu:
 
 1.	Tworzenie klucza:
-keytool -genkeypair -alias mediportaApiExampleCert -keyalg RSA-keysize 2048 -storetype PKCS12 -keystore mediportaApiExample.p12 -validity 3650
+keytool -genkeypair -alias mediportaApiExampleCert -keyalg RSA -keysize 2048 -storetype PKCS12 -keystore mediportaApiExample.p12 -validity 3650
 2.	Odczyt
 openssl pkcs12 -in mediportaApiExample.p12 -info
 3.	Eksport certyfikatu
